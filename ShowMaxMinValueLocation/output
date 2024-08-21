@@ -1,0 +1,38 @@
+# maximum + minimum value 
+__________________________
+Enter the number of elements (max 10):
+4
+Enter 4 elements:
+20
+30
+4
+2
+Maximum value: 30
+2nd Maximum value: 20
+Minimum value: 2
+2nd Minimum value: 4
+
+Process returned 0 (0x0)   execution time : 10.905 s
+Press any key to continue.
+______________________________
+
+maximum value minimum value Location
+______________________________
+Enter the number of elements (max 10): 5
+Enter 5 elements:
+20
+30
+5
+1
+4
+Maximum value: 30 at location 2
+2nd Maximum value: 20 at location 1
+Minimum value: 1 at location 4
+2nd Minimum value: 4 at location 5
+
+Process returned 0 (0x0)   execution time : 9.098 s
+Press any key to continue.
+
+
+
+
